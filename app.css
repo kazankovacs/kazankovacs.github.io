@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: #bababa;
+}
+
+body {
+    background-color: #323232;
+}
+
+#logo {
+    display: inline;
+}
+
+.header {
+    background-color:  #434343;
+    padding: 1em;
+    vertical-align: top;
+    border-bottom: 1px solid #454545;
+    box-shadow: 0 0 20px #212121;
+    position: relative;
+}
+.header img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.header h1 {
+    margin-left: 64px;
+}
+.footer {
+    display: none;
+    text-align: center;
+    color: #434343;
+}
+
+.main {
+    padding: 1em;
+}
+
+article header {
+    margin-bottom: 1em;
+}
+h1 {
+    text-decoration: underline;
+}

@@ -1,0 +1,29 @@
+{
+    "name": "PWA Dev Test",
+    "short_name": "PWADevTest",
+    "start_url": ".",
+    "theme_color": "#323232",
+    "background_color": "#323232",
+    "description": "PWA Dev Test App.",
+    "display": "standalone",
+    "icons": [{
+        "src": "./images/icons/pwa_icon_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    },
+    {
+        "src": "./images/icons/pwa_icon_144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    },
+    {
+        "src": "./images/icons/pwa_icon_64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+    },
+    {
+        "src": "./images/icons/pwa_icon_32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+    }]
+}
